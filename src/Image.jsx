@@ -4,7 +4,7 @@ export default function Image() {
         <div className="card-image">
           <figure className="image">
             <img
-              src="https://images.dog.ceo/breeds/shiba/shiba-8.jpg"
+              src="https://dog.ceo/api/breeds/image/random"
               alt="cute dog!"
             />
           </figure>
